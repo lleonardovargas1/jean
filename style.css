@@ -26,19 +26,35 @@ font-size: 40px;
 }
 
 
-.hum {
-    margin-left: 150px;
-    margin-top: 60px;
+.lets {
+    margin-left: 50px;
+    margin-top: -120px;
+    font-size: 40px;
 }
+.missao{
+    font-size: 30px;  
+    margin-left: 20px;
+margin-top: -10px; 
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 
 .hdois {
     margin-left: 700px;
-    margin-top: -140px;
+    margin-top: -270px;
 }
+.ajudamos{
+    font-size: 30px;
+    margin-left: 650px;
+}
+.ajudamo2{
+    font-size: 30px;
+    margin-left: 1150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
 
 .htres {
     margin-left: 1300px;
-    margin-top: -300px;
+    margin-top: -200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .cha {
@@ -80,11 +96,4 @@ h4 {
                  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.missao{
-font-size: 30px;  
-margin-left: 100px;  
-}
-.ajudamos{
-    font-size: 30px;
-    margin-left: 150px;
-}
+
